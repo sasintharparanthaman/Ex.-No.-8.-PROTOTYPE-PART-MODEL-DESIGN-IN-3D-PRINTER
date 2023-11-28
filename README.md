@@ -46,6 +46,7 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
+![Alt text](<Screenshot 2023-11-28 092926.png>)
 
 ### Name:P.Sasinthar
 ### Register Number:23012532
