@@ -16,7 +16,8 @@
 
 ### Step 2:- First we install the software related the 3D printer (idea maker, ultimaker etc.)In idea maker first open the software and click the open file option as shown in below figure.
 
-![Alt text](<Screenshot 2023-11-28 085542.png>)
+![Screenshot 2023-12-11 154107](https://github.com/sasintharparanthaman/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/145743219/2fd1789a-decc-45d5-9306-0d9c6aedb8b0)
+
 
 ### Step 3:- select the Pan option and select the extruder (left of right) for printing the design and then after select the Repair option for auto correction of design of software parameter as shown in below figure.
 
